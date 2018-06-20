@@ -1,5 +1,5 @@
-# nextrtc-example-wo-spring
-Example of use NextRTC in standalone mode
+# nextrtc-example-ratpack
+Example of use NextRTC in standalone mode with ratpack server
 
 Clone project and then
 - enter to directory with project
